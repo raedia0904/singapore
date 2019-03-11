@@ -1,0 +1,1062 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<title>주 싱가포르 대한민국 대사관</title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=yes"/>
+<meta name="description" content="싱가포르 지역 정보, 재외국민 영사서비스, 공관 소식, 기타 생활정보 안내."><!-- 네이버 검색 -->
+<link rel="stylesheet" type="text/css" href="/css/sg-ko/style.css" />
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/js/common-respon/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="/js/common-respon/common.js"></script>
+
+<script type="text/javascript" src="/js/common-respon/owl.carousel.js"></script>
+<script type="text/javascript" src="/js/common-respon/jquery.rolling.js"></script>
+<script type="text/javascript" src="/js/common-respon/banner_rolling.js"></script>
+<script type="text/javascript" src="/js/common-respon/main.js"></script>
+<script type="text/javascript" src="/js/cms-common.js" charset="utf-8"></script><!-- // 메인에만 출력 2017.09.01 add -->
+
+
+<script type="text/javascript">
+$( function (){
+	//프린트
+	$("#btnPrint").click(function() {$("#print_area").printThis();});
+	
+	$("input[name=search_btn]").keydown(function (key) {//통합검색 키가 13이면 실행 (엔터는 13)
+		if(key.keyCode == 13){ $("#search_btn").trigger('click');}
+	});
+	$("#search_btn").click(function() {// respon 통합검색PC
+		$('form[name=frmSearch]').submit();
+	});
+	$("#search_mbtn").click(function() {// respon 통합검색모바일
+		$('form[name=frmSearch]').submit();
+	});	
+});
+</script>
+</head>
+<body><!-- 서브페이지에는 id="subpage" 추가 -->
+<dl id="skiptoContent">
+	<dt><strong class="all_hidden">바로가기 메뉴</strong></dt>
+	<dd><a href="#content" class="accessibility01">본문 바로가기</a></dd>
+</dl>
+<div id="wrap">
+	<div id="header">
+	<h1><a href="/sg-ko/index.do">주 싱가포르 대한민국 대사관</a></h1>
+	<ul class="util">
+		<li><a href="/sg-en/index.do">English</a></li>
+		<li><a href="http://www.mofa.go.kr/www/index.do" target="blank" title="새창에서 열림">외교부</a></li>
+		<li> <a href="#siteList01" onclick="goPoint('siteList01'); return false;">공관 소셜미디어 <i class="fa fa-chevron-down"></i></a>
+			<div id="siteList01" class="listNone">
+				<ul>
+					<!--<li class="sns_menu sns_twitter"> <a href="https://twitter.com/koreanembassysg" target="_blank" title="새창에서 열림"> <i class="fa fa-twitter"></i><span>Twitter</span></a></li>-->
+					<li class="sns_menu sns_facebook"><a href="https://www.facebook.com/KoreaEmbassySingapore" target="_blank" title="새창에서 열림"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+				</ul>
+			</div>
+		</li>
+		<li><a href="http://www.president.go.kr/" target="blank" title="새창에서 열림">청와대</a></li>
+	</ul>
+	<!-- // [개발] 확인필요 -->
+	<div class="search">
+		<div class="search_fir">
+			<form name="frmSearch" action="/sg-ko/pgm/m_12318/respon/koSearch.do" method="post">
+				<fieldset>
+					<legend>통합검색</legend>
+					<input type="text" class="ipt" name="searchKeyWord" value="" id="searchKeyWord" title="통합검색키워드" />
+					<div class="btn"><a href="#search_btn"><img src="/images/common-respon/btn_allsearch.gif" alt="검색" id="search_btn" /></a></div>
+					<div class="mbtn"><a href="#search_mbtn"><img src="/images/common-respon/btn_tot_search.gif" alt="검색" id="search_mbtn"/></a></div>
+				</fieldset>
+			</form>
+		</div>
+	</div>
+	<!-- [개발] SNS 링크확인필요 -->
+	<div class="m_sns">
+		<ul>
+			<!-- <li class="sns_menu sns_twitter"><a href="https://twitter.com/koreanembassysg" target="_blank" title="새창에서 열림"><i class="fa fa-twitter"></i></a></li>-->
+			<li class="sns_menu sns_facebook"><a href="https://www.facebook.com/KoreaEmbassySingapore" target="_blank" title="새창에서 열림"><i class="fa fa-facebook"></i></a></li>
+			<!-- <li class="sns_menu sns_youtube"><a href="#none"><i class="fa fa-youtube"></i></a></li> -->
+		</ul>
+	</div>
+	<!-- // [개발] SNS 확인필요 -->
+	<div id="gnb">
+		<h2 class="mobile-menu hidden"><span>메뉴</span><img src="/images/common-respon/mobile_menu.gif" alt="메인메뉴" /></h2>
+		<ul>
+			
+			<li><a class="viewLink" href="/sg-ko/wpge/m_2500/contents.do">공관 소개</a>
+			
+			
+				<ul>
+				<li class="first"><a href="/sg-ko/wpge/m_2500/contents.do" >공관장 인사</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/wpge/m_2502/contents.do" >역대 공관장</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/wpge/m_2503/contents.do" >주요 업무</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/wpge/m_2504/contents.do" >공관 약사</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/wpge/m_2505/contents.do" >주소 및 연락처</a>
+				</li></ul>
+			</li>
+		
+			<li><a class="viewLink" href="/sg-ko/wpge/m_2514/contents.do">영사</a>
+			
+			
+				<ul>
+				<li class="first"><a href="/sg-ko/wpge/m_2514/contents.do" >영사과 업무안내</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2515/list.do" >여권</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2516/list.do" >사증</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2517/list.do" >공증</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2518/list.do" >가족관계(등록/발급)</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2519/list.do" >재외국민등록</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2520/list.do" >병역/국적</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2521/list.do" >기타 업무</a>
+				</li></ul>
+			</li>
+		
+			<li><a class="viewLink" href="/sg-ko/brd/m_11936/list.do">뉴스</a>
+			
+			
+				<ul>
+				<li class="first"><a href="/sg-ko/brd/m_11934/list.do" >새소식</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_11935/list.do" >공지사항</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_11936/list.do" >공관 활동사항</a>
+				</li></ul>
+			</li>
+		
+			<li><a class="viewLink" href="/sg-ko/brd/m_2510/list.do">정책</a>
+			
+			
+				<ul>
+				<li class="first"><a href="/sg-ko/brd/m_2510/list.do" >싱가포르 정세</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2511/list.do" >싱가포르 경제</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2513/list.do" >한국과의관계</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_20758/list.do" >사이버기업서비스</a>
+				
+					<ul>
+						<li><a href="http://www.kotra.or.kr/KBC/singapore/KTMIUI010M.html"  target="_blank" title="새창열림">상품산업정보</a></li>
+					
+				
+					
+						<li><a href="/sg-ko/brd/m_20760/list.do" >현지진출방문정보</a></li>
+					
+				
+					
+						<li><a href="/sg-ko/brd/m_20759/list.do" >통상환경(제도,법률)정보</a></li>
+					
+				
+					
+						<li><a href="/sg-ko/brd/m_20758/list.do" >기업애로사항</a></li>
+					</ul>
+				</li></ul>
+			</li>
+		
+			<li><a class="viewLink" href="/sg-ko/brd/m_2532/list.do">전자민원</a>
+			
+			
+				<ul>
+				<li class="first"><a href="/sg-ko/brd/m_2532/list.do" >FAQ</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/wpge/m_2533/contents.do" >질의응답</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2535/list.do" >양식다운로드</a>
+				
+					<ul>
+						<li><a href="/sg-ko/brd/m_2536/list.do" >공통민원서식</a></li>
+					
+				
+					
+						<li><a href="/sg-ko/brd/m_2535/list.do" >공관별민원서식</a></li>
+					</ul>
+				</li></ul>
+			</li>
+		
+			<li><a class="viewLink" href="/sg-ko/brd/m_2522/list.do">정보마당</a>
+			
+			
+				<ul>
+				<li class="first"><a href="/sg-ko/brd/m_2522/list.do" >싱가포르 교육</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2523/list.do" >싱가포르 취업정보</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2524/list.do" >안전여행정보</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2530/list.do" >생활문화정보</a>
+				</li>
+			
+				
+				<li ><a href="/sg-ko/brd/m_2531/list.do" >유용한 사이트</a>
+				</li></ul>
+			</li>
+		
+		</ul>
+		<div class="mobile_link">
+			<ul>
+				<li class="first"><a href="http://www.mofa.go.kr/www/index.do" target="_blank" title="새창에서 열림"><img src="/images/common-respon/gnb_link1.png" alt="외교부" /></a></li>
+				<li><a href="/sg-en/index.do"><img src="/images/sg-ko/gnb_link2.png" alt="현지어" /></a></li> <!-- // [개발] 링크확인필요 -->
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="subgnb_bar"></div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$.post("/cmmn/timzone.do",{emblgbd:"Asia/Singapore"},setTimeList, "json");
+	$.ajax({
+		type: "POST", 
+		url: "/cmmn/timzone.do",
+		dataType:"json",
+		data : "emblgbd=Asia/Singapore", // 보안문자 답변
+		success: function(json) {
+			$('#local_time').val(json.time);
+			$('#kor_time').val(json.koreaTime);
+		}, 
+		error : function(json){ 
+			alert("조회하지 못하였습니다."); 
+			return;
+		}
+	});	
+	
+	setInterval(getOpenTime,1000);
+});
+
+function getOpenTime(){
+	setTimeList();
+}  
+
+function setTimeList(){
+	var time = $('#local_time').val();	  
+	var koreaTime = $('#kor_time').val();
+	timeZone();
+	timeZoneLoc(time,koreaTime);
+}
+var system_seconds = 58;
+var system_minute = 56;
+var system_hour = 20;
+function timeZone(){
+	 var seoulTime1 = document.getElementById('seoulTime1');
+	 var seoulTime  = document.getElementById('seoulTime');
+     var korYear    = 2019;
+     var korMonth   = 03;
+     var korDate    = 11;
+     var korHours   =  20;
+     var korMinutes = 56;
+     var korSeconds = 58;
+     var korampm;
+
+     if(system_hour == korHours){
+ 		//minutes = system_hour;
+ 	}else{
+ 		korHours = system_hour;
+ 	}
+
+ 	if(system_minute == korMinutes){
+ 		//hours = system_minute;
+ 	}else{
+ 		korMinutes = system_minute;
+ 	}
+
+ 	if(system_seconds == korSeconds){
+ 		system_seconds = system_seconds + 1;
+ 	}else{
+ 		korSeconds = system_seconds;
+ 		system_seconds = system_seconds + 1;
+ 		if(korSeconds > 59){
+ 			korMinutes = korMinutes + 1;
+ 			system_minute = system_minute + 1;
+ 			system_seconds = 0;
+ 			korSeconds = 0;
+ 			if(korMinutes > 59){
+ 				korHours = korHours + 1;
+ 				system_hour = system_hour + 1;
+ 				korMinutes = 0;
+ 				system_minute = 0;
+ 			}
+ 		}
+ 	}
+     $("#sy_year").val(korYear);
+     $("#sy_month").val(korMonth);
+     $("#sy_day").val(korDate);
+     $("#sy_hours").val(korHours);
+     $("#sy_minutes").val(korMinutes);
+     $("#sy_seconds").val(korSeconds);
+     if(0 <= korHours && korHours < 12){
+    	 korampm="<strong>AM</strong>";
+    	 if (korHours == 0) korHours = 12 ;
+     }else{ 
+    	 korampm="<strong>PM</strong>";
+    	 korHours -= 12;
+    	 if (korHours == 0) korHours = 12 ;
+     }
+     
+     if(korHours < 10 ){korHours = "0"+korHours;}
+     if(korMinutes < 10){korMinutes = "0"+korMinutes;}
+     if(korSeconds < 10){korSeconds = "0"+korSeconds;}
+     seoulTime1.innerHTML = korYear+"."+korMonth+"."+korDate+".";
+     seoulTime.innerHTML = korHours+":"+korMinutes+":"+korSeconds+" "+korampm;
+}
+
+function timeZoneLoc(time,koreaTime){
+	var l_t = new Date(time);
+	var k_t = new Date(koreaTime);
+	var differ = (l_t - k_t)  / (1000*60*60);
+    if(k_t.getMinutes() <= 30)
+    	var differM =(k_t.getMinutes() - l_t.getMinutes());
+    else
+    	var differM =(l_t.getMinutes() - k_t.getMinutes());
+
+	 var localTime1 = document.getElementById('localTime1');
+	 var localTime  = document.getElementById('localTime');
+     var locYear    = $("#sy_year").val(); 
+     var locMonth   = $("#sy_month").val(); 
+     var locDate    = $("#sy_day").val();   
+     var locHours   = $("#sy_hours").val(); 
+     var locMinutes = $("#sy_minutes").val();
+     var locSeconds = $("#sy_seconds").val();
+	 var locampm;
+
+     locHours = (parseInt(locHours,10) + parseInt(differ,10));
+     
+     if (locHours < 0)
+    {
+     locHours = locHours + 24;
+     locDate = locDate - 1;
+    }
+     if (locHours > 23)
+     {
+      locHours = locHours - 24;
+      locDate = locDate + 1;
+     }
+   
+     locMinutes = (parseInt(locMinutes,10) + parseInt(differM,10));
+     if (locMinutes < 0)
+     {
+      locMinutes = locMinutes + 60;
+      locHours = locHours - 1;
+     }
+
+     if (locMinutes > 59)
+     {
+      locMinutes = locMinutes - 60;
+      locHours = locHours + 1;
+     }
+    
+     if(0 <= locHours && locHours < 12){
+    	 locampm="<strong>AM</strong>";
+    	 if (locHours == 0) locHours = 12 ;
+     }else{
+    	 locampm="<strong>PM</strong>";
+    	 locHours -= 12;
+    	 if (locHours == 0) locHours = 12 ;
+     }
+     if(locDate <=0 ) {
+    	 var leapyear="";
+    	 locMonth = locMonth - 1;
+			if(locMonth==1||locMonth==3||locMonth==5||locMonth==7||locMonth==8||locMonth==10||locMonth==12)
+				locDate = 31 + locDate ;
+			else if(locMonth==4||locMonth==6||locMonth==9||locMonth==11)
+				locDate = 30 + locDate ;
+			else if(locMonth==2 && leapyear=="true")
+				locDate = 29 + locDate ;
+			else if(locMonth==2 && leapyear!="true")
+				locDate = 28 + locDate ;
+			else if(locMonth<=0) {
+				locYear = locYear - 1;
+				locMonth = 12;
+				locDate = 31;
+			}
+		}
+     
+     
+     if(locHours < 10){locHours = "0"+locHours;}
+     if(locMinutes < 10){locMinutes = "0"+locMinutes;}
+     if(locSeconds < 10){locSeconds = "0"+locSeconds;}
+     localTime1.innerHTML = locYear+"."+locMonth+"."+locDate+".";
+     if(isNaN(locHours)){	 
+     }else{
+     localTime.innerHTML =locHours+":"+locMinutes+":"+locSeconds+" "+locampm;
+     }
+
+}
+var xpos = 0;
+var ypos = 0;
+
+$(function() { //공통 팝업
+
+	
+	if(isWinOpen("notOpenWin173")){
+		fn_popup("/com/popup/view.do?seq=173&site_itm=3", 'win173' ,'350', '380', "yes",xpos,ypos);
+		xpos = xpos + 350 + 20;
+	}
+	
+});
+
+
+//]]> 
+</script>
+	<input name="local_time" id="local_time" type="hidden" />
+	<input name="kor_time" id="kor_time" type="hidden" />
+	<input name="sy_year" id="sy_year" type="hidden" />
+	<input name="sy_month" id="sy_month" type="hidden" />
+	<input name="sy_day" id="sy_day" type="hidden" />
+	<input name="sy_hours" id="sy_hours" type="hidden" />
+	<input name="sy_minutes" id="sy_minutes" type="hidden" />
+	<input name="sy_seconds" id="sy_seconds" type="hidden" />
+	<div id="middle">
+		<div class="section01"> 
+			<div class="left_box visual">
+				<div class="mainVisual">
+					<div class="owl-carousel">
+						<div class="item"><img id="parentImgpathName" src="/images/sg-ko/main_visual1.jpg" alt="" /></div>
+						
+					</div>
+					<div class="customNavigation"> <a class="btn play">Play</a> <a class="btn stop">Stop</a> </div>
+				</div>
+			</div>
+			<div class="right_box info">
+				<p class="flag_img">
+					<span><img src="/images/common-respon/main/img_flag1.png" alt="한국 국기" /></span>
+					<span><img src="/images/sg-ko/img_flag2.png" alt="싱가포르 국기" /></span>
+				</p>
+				
+				<div class="info_box01">
+					<p class="info_title">현재시간</p>
+					<span class="info_line">&nbsp;</span>
+					<ul class="time_list">
+						<li><strong>서울시간</strong><span class="date_txt" id="seoulTime1"></span><span class="time_txt" id="seoulTime"></span></li>
+						<li><strong>현지시간</strong><span class="date_txt" id="localTime1"></span><span class="time_txt" id="localTime"></span></li>
+					</ul>
+				</div>
+				<div class="info_box02"><!-- [개발] 확인필요 : 긴급연락처 -->
+					<p class="info_title">긴급연락처</p>
+<span class="info_line">&nbsp;</span>
+<p class="info_txt">
+근무시간내 : +65-6256-1188<br>
+근무시간외 : +65-9654-3528<br>
+영사콜센터(24시간) : +822-3210-0404
+</p>
+				</div>
+			</div>
+		</div>
+		<div class="section02">
+			<div class="left_box main_board" id="board_group"> 
+				<!-- A탭정보 S -->
+				<h3><a href="#board_tab01" class="tab">공관소식</a></h3>
+				<div id="board_tab01">
+					<!-- AA -->
+					<div class="board_box">
+						<p class="board_title"><a href="/sg-ko/brd/m_11934/list.do" >새소식</a></p>
+						<span class="board_line">&nbsp;</span>
+						
+						<p class="board_content"><a href="/sg-ko/brd/m_11934/view.do?seq=1346298"><strong>문재인 대통령, The Straits Times 기고(3.6일자)</strong><span>﻿Asia News Network 회원지 The Straits Times 3월 6일자에 "번영과 평화를 위해 성장하는 한·아세안 관계"제…</span></a></p>
+						
+						<p class="board_more"><a href="/sg-ko/brd/m_11934/list.do" ><i class="fa fa-plus"></i></a></p>
+					</div>
+					
+					<!-- AB -->
+					<div class="board_box">
+						<p class="board_title"><a href="/sg-ko/brd/m_11935/list.do" >공지사항</a></p>
+						<span class="board_line">&nbsp;</span>
+						
+						<p class="board_content"><a href="/sg-ko/brd/m_11935/view.do?seq=1346369"><strong>2019 재외동포 중고생 대학생 모국연수 시행 계획 및 참가자 모집 안내</strong><span>
+재외동포재단은 2019 재외동포 중고생 대학생 모국연수 추진 일정과 지원내용을 알려온 바, 상세내용은 첨부…</span></a></p>
+						
+						<p class="board_more"><a href="/sg-ko/brd/m_11935/list.do" ><i class="fa fa-plus"></i></a></p>
+					</div>
+					
+					<!-- AC -->
+					<div class="board_box">
+						<p class="board_title"><a href="/sg-ko/brd/m_11936/list.do" >공관 활동사항</a></p>
+						<span class="board_line">&nbsp;</span>
+						
+						<p class="board_content"><a href="/sg-ko/brd/m_11936/view.do?seq=1334997"><strong>싱가포르 통화청 부총재 예방</strong><span>안영집 대사는 3.4(월) Jacqueline Loh 싱가포르 통화청 (MAS) 부총재를 예방하여 한-싱 핀테크 협력 강화, 글…</span></a></p>
+						
+						<p class="board_more"><a href="/sg-ko/brd/m_11936/list.do" ><i class="fa fa-plus"></i></a></p>
+					</div>
+					
+				</div>
+				<!-- A탭정보 E -->
+				
+				<!-- B탭정보 S -->
+				<h3><a href="#board_tab02" class="tab">외교부소식</a></h3>
+				<div id="board_tab02">
+					<!-- BA -->
+					<div class="board_box">
+						<p class="board_title"><a href="http://www.mofa.go.kr/www/brd/m_4076/list.do"  target="_blank">뉴포커스</a></p>
+						<span class="board_line">&nbsp;</span>
+						
+						<p class="board_content">
+						
+						<a href="http://www.mofa.go.kr/www/brd/m_4076/view.do?seq=368266" target="_blank" title="new window">
+						<strong>에티오피아 항공기 추락사고 관련 외교부 대변인 성명 </strong><span>@관련 보도자료 바로가기정부는 3월 10일 오전 에티오피아 아디스아바바를 출발하여 케냐 나이로비로 향하던 에…</span></a>
+						
+						
+						
+						</p>
+						
+						<p class="board_more"><a href="http://www.mofa.go.kr/www/brd/m_4076/list.do"  target="_blank"><i class="fa fa-plus"></i></a></p>
+					</div>
+					
+					<!-- BB -->
+					<div class="board_box">
+						<p class="board_title"><a href="http://www.mofa.go.kr/www/brd/m_4089/list.do"  target="_blank">정책고객서비스</a></p>
+						<span class="board_line">&nbsp;</span>
+						
+						<p class="board_content">
+						
+						
+						<a href="http://news.mofa.go.kr/enewspaper/mainview.php?mvid=2646&master=" target="_blank" title="new window">
+						<strong>제 602 호 강경화 외교장관, 비건 미 대북특별대표 접견</strong><span>강경화 외교장관, 비건 미 대북특별대표 접견</span></a>
+						
+						
+						</p>
+						
+						<p class="board_more"><a href="http://www.mofa.go.kr/www/brd/m_4089/list.do"  target="_blank"><i class="fa fa-plus"></i></a></p>
+					</div>
+					
+					<!-- BC -->
+					<div class="board_box">
+						<p class="board_title"><a href="http://www.mofa.go.kr/www/brd/m_4080/list.do"  target="_blank">외교부보도자료</a></p>
+						<span class="board_line">&nbsp;</span>
+						
+						<p class="board_content">
+						
+						<a href="http://www.mofa.go.kr/www/brd/m_4080/view.do?seq=369057" target="_blank" title="new window">
+						<strong>임시정부, 프랑스에서 조국 광복을 외치다 </strong><span> 외교부 외교사료관은 올해 대한민국임시정부 수립 100주년을 맞아, 2019년 3월 13일부터 12월 31일까지 대한민…</span></a>
+						
+						
+						
+						</p>
+						
+						<p class="board_more"><a href="http://www.mofa.go.kr/www/brd/m_4080/list.do"  target="_blank"><i class="fa fa-plus"></i></a></p>
+					</div>
+					
+				</div>
+				<!-- B탭정보 E -->
+				
+				<!-- C탭정보 E -->
+				
+				<!-- D탭정보 E -->
+
+			</div>
+			<div class="right_box quick_menu m_quick_menu">
+				<p class="quick_menu_title">자주 찾는 정보</p>
+				<span class="board_line">&nbsp;</span>
+				<div class="quick_menu_list">
+					<div class="listwrap">
+						<div class="owl-carousel">
+							<div class="item"><a href="/sg-ko/brd/m_2519/list.do"><img src="/images/sg-ko/img_faq1.png" alt="재외국민등록" /><span>재외국민등록</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2524/list.do"><img src="/images/sg-ko/img_faq2.png" alt="여행정보" /><span>여행정보</span></a></div>
+							<div class="item"><a href="https://www.0404.go.kr/dev/main.mofa" target="_blank" title="새창에서 열림"><img src="/images/sg-ko/img_faq3.png" alt="해외여행안전정보" /><span>해외여행안전정보</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2535/list.do"><img src="/images/sg-ko/img_faq4.png" alt="민원양식" /><span>민원양식</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2523/list.do"><img src="/images/sg-ko/img_faq5.png" alt="채용정보" /><span>채용정보</span></a></div>
+							<div class="item"><a href="/sg-ko/wpge/m_2505/contents.do"><img src="/images/sg-ko/img_faq6.png" alt="공관주소" /><span>공관주소</span></a></div>
+						</div>
+						<div class="favList">
+							<div class="item"><a href="/sg-ko/brd/m_2519/list.do"><img src="/images/sg-ko/img_faq7.png" alt="재외국민등록" /><span>재외국민등록</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2524/list.do"><img src="/images/sg-ko/img_faq8.png" alt="여행정보" /><span>여행정보</span></a></div>
+							<div class="item"><a href="https://www.0404.go.kr/dev/main.mofa" target="_blank" title="새창에서 열림"><img src="/images/sg-ko/img_faq9.png" alt="해외여행안전정보" /><span>해외여행안전정보</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2535/list.do"><img src="/images/sg-ko/img_faq10.png" alt="민원양식" /><span>민원양식</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2523/list.do"><img src="/images/sg-ko/img_faq11.png" alt="채용정보" /><span>채용정보</span></a></div>
+							<div class="item"><a href="/sg-ko/wpge/m_2505/contents.do"><img src="/images/sg-ko/img_faq12.png" alt="공관주소" /><span>공관주소</span></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="right_box banner_01">
+				<div class="bnrwrap">
+					<div class="owl-carousel"> 
+						<!-- 팝업존 START -->
+						
+						
+						<div class="item" id="sort_num_1"><a href="https://youtu.be/u9EP0BLLUbc" title="새창열림" target="_blank"><img src="/upload/notice/20190226035348054.jpg" alt="한반도 평화번영, 그 담대한 여정" /></a></div>
+						
+						<div class="item" id="sort_num_1"><a href="http://www.mofa.go.kr/www/brd/m_4076/view.do?seq=368238&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1" title="새창열림" target="_blank"><img src="/upload/notice/20190131031036285.jpg" alt="문재인 정부 600일 &#039;국민과의 약속&#039; 이렇게 지켜왔습니다. " /></a></div>
+						
+						<div class="item" id="sort_num_1"><a href="http://koreasummit.kr/" title="새창열림" target="_blank"><img src="/upload/notice/20180920021605578.jpg" alt="2018 남북정상회담 평양" /></a></div>
+						
+						<div class="item" id="sort_num_1"><a href="http://youtu.be/K9DKW5PqApo" title="새창열림" target="_blank"><img src="/upload/notice/20171122011824824.jpg" alt="동해 국문 동영상" /></a></div>
+						
+						<div class="item" id="sort_num_1"><a href="http://dokdo.mofa.go.kr/kor/" title="새창열림" target="_blank"><img src="/upload/notice/20171122011741043.jpg" alt="독도 외교부 바로가기&gt;" /></a></div>
+						
+						<div class="item" id="sort_num_1"><a href="http://www.mofa.go.kr/www/wpge/m_3838/contents.do" title="새창열림" target="_blank"><img src="/upload/notice/20171122011641805.jpg" alt="동해 East Sea 표기의 정당성&gt;" /></a></div>
+						
+						<div class="item" id="sort_num_1"><a href="https://www.0404.go.kr/callcenter/translation_service.jsp" title="새창열림" target="_blank"><img src="/upload/notice/20171122011400061.jpg" alt="해외안전여행 긴급상황 통역서비스 지원" /></a></div>
+						
+						<div class="item" id="sort_num_1"><a href="https://www.0404.go.kr/accompany/intro.jsp" title="새창열림" target="_blank"><img src="/upload/notice/20171122011030550.jpg" alt="동행 외교부 해외안전여행 어플리케이션" /></a></div>
+						
+						
+						
+						<!-- 디폴트 이미지 -->
+						
+						<!-- 팝업존 END --> 
+					</div>
+					<div class="customNavigation"> <a class="btn play">Autoplay</a> <a class="btn stop">Stop</a> </div>
+				</div>
+			</div>
+		</div>
+		<div class="section03">
+			<div class="left_box">
+				<div class="left_box_in_01">
+					<div class="main_sns_box">
+						<p class="sns_title">공관 소셜미디어</p>
+						<span class="board_line">&nbsp;</span>
+						<ul class="sns_icon">
+							<li><a href="http://www.facebook.com/KoreaEmbassySingapore" target="_blank" title="새창에서 열림"><i class="fa fa-facebook"></i> 대사관</a></li>
+							<!--<li><a href="http://www.twitter.com/koreanembassysg" target="_blank" title="새창에서 열림"><i class="fa fa-twitter"></i></a></li>-->
+						</ul>
+						<div class="sns_box_in">
+							<iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FKoreaEmbassySingapore&amp;width=427&amp;height=250&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=false" style="border:none; width:430px; height:250px; margin:-73px 0px 0px -1px;" name="ifrm" title="실시간 페이스북보기"></iframe>
+							<iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FKoreaEmbassySingapore&amp;width=275&amp;height=400&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=false" style="border:none; width:278px; height:400px; margin:-73px 0px 0px -1px;" name="ifrm" title="실시간 페이스북보기" class="m_sns_iframe"></iframe> 
+						</div>
+					</div>
+					<div class="quick_icon">
+						<ul class="quick_icon_list">
+							
+	<li class="icon01">
+		<p class="icon_title">독도</p>
+		<a href="http://www.mofa.go.kr/www/wpge/m_3836/contents.do" target="_blank" title="새창열기"><i class="fa fa-chevron-right"></i></a> </li>
+	<li class="icon02">
+		<p class="icon_title">동해</p>
+		<a href="http://www.mofa.go.kr/www/wpge/m_3838/contents.do" target="_blank" title="새창열기"><i class="fa fa-chevron-right"></i></a> </li>
+	<li class="icon03">
+		<p class="icon_title">국민정책제안</p>
+		<a href="http://www.mofa.go.kr/www/wpge/m_4128/contents.do" target="_blank" title="새창열기"><i class="fa fa-chevron-right"></i></a>
+	</li><!-- 2개일경우quick_icon_list_2.jsp, 3개일경우quick_icon_list_3.jsp  -->
+						</ul>
+					</div>
+				</div>
+				<div class="left_box_in_02">
+				
+					<div class="banner_02">
+						<div class="slidedv">
+							<div class="owl-carousel"> 
+								<!-- 미니 팝업존 START -->
+								 
+								 	<div class="item"><a href="http://overseas.mofa.go.kr/upload/cntnts/cmmn/mofa_logo_top_r2.jpg" title="새창열림" target="_blank"><img src="/upload/notice/20171122015917373.jpg" alt="국민의 나라 정의로운 대한민국" /></a></div>
+								 
+								 	<div class="item"><a href="http://cdc.go.kr/CDC/contents/sub3.jsp" title="새창열림" target="_blank"><img src="/upload/notice/20171122015453572.jpg" alt="질병관리본부
+재외국민 질병정보!
++82-2-2163-5945
+cdc.go.kr" /></a></div>
+								 
+								 	<div class="item"><a href="http://www.mofa.go.kr/www/brd/m_20053/list.do" title="새창열림" target="_blank"><img src="/upload/notice/20171122014959559.jpg" alt="문재인대통령해외순방" /></a></div>
+								 
+								 	<div class="item"><a href="https://www.factsaboutkorea.go.kr/welcome.do" title="새창열림" target="_blank"><img src="/upload/notice/20171122014849333.jpg" alt="FACTS KOREA
+한국바로알림서비스" /></a></div>
+								 
+								 	<div class="item"><a href="/popup/popup.html" title="새창열림" target="_blank"><img src="/upload/notice/20181113062114179.jpg" alt="한국 사법부의 강제징용 판결에 관한 일본 정부의 태도에 대하여 " /></a></div>
+								 
+								 
+								 	<div class="item"><a href="http://www.kotra.or.kr/singapore" title="새창열림" target="_blank"><img src="/upload/notice/20171213015115119.jpg" alt="kotra 싱가포르 무역관" /></a></div>
+								 
+								<!-- 미니 팝업존 END --> 
+							</div>
+							<div class="customNavigation"><a class="moreList">베너이미지 더보기</a></div>
+							<dl class="bnrZone"  style="display:none;">
+								<dt>배너존</dt>
+								<dd>
+									<div class="bnrSlide">
+										<div class="owl-carousel">
+											<div class="item">
+												<div class="inr">
+													<!-- 미니배너존 전체펼침 START -->
+													<a href="http://overseas.mofa.go.kr/upload/cntnts/cmmn/mofa_logo_top_r2.jpg" title="새창열림" target="_blank"><img src="/upload/notice/20171122015917373.jpg" alt="국민의 나라 정의로운 대한민국" /></a>
+													<!-- 미니배너존 전체펼침 START -->
+													<a href="http://cdc.go.kr/CDC/contents/sub3.jsp" title="새창열림" target="_blank"><img src="/upload/notice/20171122015453572.jpg" alt="질병관리본부
+재외국민 질병정보!
++82-2-2163-5945
+cdc.go.kr" /></a>
+													<!-- 미니배너존 전체펼침 START -->
+													<a href="http://www.mofa.go.kr/www/brd/m_20053/list.do" title="새창열림" target="_blank"><img src="/upload/notice/20171122014959559.jpg" alt="문재인대통령해외순방" /></a>
+													<!-- 미니배너존 전체펼침 START -->
+													<a href="https://www.factsaboutkorea.go.kr/welcome.do" title="새창열림" target="_blank"><img src="/upload/notice/20171122014849333.jpg" alt="FACTS KOREA
+한국바로알림서비스" /></a>
+													<!-- 미니배너존 전체펼침 START -->
+													<a href="/popup/popup.html" title="새창열림" target="_blank"><img src="/upload/notice/20181113062114179.jpg" alt="한국 사법부의 강제징용 판결에 관한 일본 정부의 태도에 대하여 " /></a>
+													<!-- 미니배너존 전체펼침 END -->
+													<!-- 미니배너존 전체펼침 START -->
+													<a href="http://www.kotra.or.kr/singapore" title="새창열림" target="_blank"><img src="/upload/notice/20171213015115119.jpg" alt="kotra 싱가포르 무역관" /></a>
+													
+												</div>
+											</div>
+										</div>
+									</div>
+								</dd>
+							</dl>
+						</div>
+						<!--slidedv-->
+					</div>
+					
+					<div class="quick_txt">
+						<ul class="quick_txt_list">
+							<li class="quick_txt01"><a href="https://www.0404.go.kr/accompany/intro.jsp" target="_blank" title="새창열기">해외여행자 인터넷 등록제</a></li>
+							<li class="quick_txt02"><a href="http://www.mofa.go.kr/www/nation/m_3458/view.do?seq=25" target="_blank" title="새창열기">국가약황</a></li>
+							<li class="quick_txt03"><a href="https://www.0404.go.kr/callcenter/callcenter_intro.jsp" target="_blank" title="새창열기">영사콜센터</a></li>
+							<li class="quick_txt04"><a href="http://www.visa.go.kr/portal/va/mvic/avic/IvisVisaStsForm.jsp" target="_blank" title="새창열기">사증신청 결과조회</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="right_box quick_menu">
+				<p class="quick_menu_title">자주 찾는 정보</p>
+				<span class="board_line">&nbsp;</span>
+				<div class="quick_menu_list">
+					<div class="listwrap">
+						<div class="owl-carousel">
+							<div class="item"><a href="/sg-ko/brd/m_2519/list.do"><img src="/images/sg-ko/img_faq1.png" alt="재외국민등록" /><span>재외국민등록</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2524/list.do"><img src="/images/sg-ko/img_faq2.png" alt="여행정보" /><span>여행정보</span></a></div>
+							<div class="item"><a href="https://www.0404.go.kr/dev/main.mofa" target="_blank" title="새창에서 열림"><img src="/images/sg-ko/img_faq3.png" alt="해외여행안전정보" /><span>해외여행안전정보</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2535/list.do"><img src="/images/sg-ko/img_faq4.png" alt="민원양식" /><span>민원양식</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2523/list.do"><img src="/images/sg-ko/img_faq5.png" alt="채용정보" /><span>채용정보</span></a></div>
+							<div class="item"><a href="/sg-ko/wpge/m_2505/contents.do"><img src="/images/sg-ko/img_faq6.png" alt="공관주소" /><span>공관주소</span></a></div>
+						</div>
+						<div class="favList">
+							<div class="item"><a href="/sg-ko/brd/m_2519/list.do"><img src="/images/sg-ko/img_faq7.png" alt="재외국민등록" /><span>재외국민등록</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2524/list.do"><img src="/images/sg-ko/img_faq8.png" alt="여행정보" /><span>여행정보</span></a></div>
+							<div class="item"><a href="https://www.0404.go.kr/dev/main.mofa" target="_blank" title="새창에서 열림"><img src="/images/sg-ko/img_faq9.png" alt="해외여행안전정보" /><span>해외여행안전정보</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2535/list.do"><img src="/images/sg-ko/img_faq10.png" alt="민원양식" /><span>민원양식</span></a></div>
+							<div class="item"><a href="/sg-ko/brd/m_2523/list.do"><img src="/images/sg-ko/img_faq11.png" alt="채용정보" /><span>채용정보</span></a></div>
+							<div class="item"><a href="/sg-ko/wpge/m_2505/contents.do"><img src="/images/sg-ko/img_faq12.png" alt="공관주소" /><span>공관주소</span></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+	$(document).ready(function(){
+		getOpenAbroadList($('#cntt').val());
+		$("#cntt").append("<option value=''>:::대륙선택:::</option>");
+		$("#emblgbd").append("<option value=''>:::공관선택:::</option>");
+	});
+	
+	//대륙코드선택 selectBox
+	function getOpenAbroadList(_cntt){
+		//재외공관한글명바로가기 abroadKo
+		if(_cntt != "")
+		$.post("/cmmn/abroadKoSelectBox.do",{cntt : _cntt},setOpenAbroadList, "json");
+	}
+	
+	//공관선택 selectBox
+	function setOpenAbroadList(data, status){
+		if ( 'success' != status || null == data ) { alert("조회하지 못하였습니다."); return; }
+		var obj = $('select[name="emblgbd"]');
+		obj.children().remove();
+		$("#emblgbd").append("<option value=''>:::공관선택:::</option>");
+		if(data.vo.length == 7){
+		for(var i =0; i < data.vo.length; i++){
+			$("#cntt").append("<option value="+data.vo[i].code+">"+data.vo[i].description+"</option>");
+		}
+		}else {
+			for(var i =0; i < data.vo.length; i++){
+				$("#emblgbd").append("<option value="+data.vo[i].deptNm+">"+data.vo[i].description+"</option>");
+			}
+		}
+		   	
+	}
+	//공관링크바로가기
+	function goabroad(url){
+		var chkurl="";
+		if(url != chkurl){window.open(url);	return;}
+	}
+//]]> 
+</script>
+	
+	<div id="footer">
+		
+		
+		<div class="foot_top">
+			<div class="banner">
+				<!-- banner -->
+				<ul class="bannerControl">
+					<li class="btn_prev"><a href="#none" onclick="bannerLeft();return false;"><i class="fa fa-caret-left"></i></a></li>
+					<li class="btn_stop"><a href="#none" onclick="bannerStop();return false;"><i class="fa fa-pause"></i></a></li>
+					<li class="btn_play"><a href="#none" onclick="bannerStart();return false;"><i class="fa fa-play"></i></a></li>
+					<li class="btn_next"><a href="#none" onclick="bannerRight();return false;"><i class="fa fa-caret-right"></i></a></li>
+					<li class="all_view"><a href="/sg-ko/cmmn/banner.do" onclick="openWindow(this, 'popBanner', '600', '650'); return false;">전체보기</a></li>
+				</ul>
+				<div id="banner_list">
+					<ul id="banner_rolling">
+						
+						<li><a href='https://www.mois.go.kr/html/taegeukgi/0301.html' target='_blank' title='새창열림'><img src="/upload/notice/20190219040143339.jpg" alt="행정안전부" /></a></li>
+						
+						<li><a href='http://www.gov.kr' target='_blank' title='새창열림'><img src="/upload/notice/20181030115216796.jpg" alt="정부24" /></a></li>
+						
+						<li><a href='http://www.innogov.go.kr/ucms/main/main.do' target='_blank' title='새창열림'><img src="/upload/notice/20180813040727730.jpg" alt="정부혁신" /></a></li>
+						
+						<li><a href='http://www.koreasummit.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20180919102258308.jpg" alt="2018 남북정상회담 평양" /></a></li>
+						
+						<li><a href='https://www.sanghun.go.kr/nation/nationrec/nationRecSubmit.do' target='_blank' title='새창열림'><img src="/upload/notice/20180621112354114.jpg" alt="대한민국 상훈" /></a></li>
+						
+						<li><a href='http://www.kmall24.co.kr' target='_blank' title='새창열림'><img src="/upload/notice/20180321060413722.jpg" alt="무역협회 운영 B2C 해외직판 수출플랫폼" /></a></li>
+						
+						<li><a href='http://kr.tradekorea.com' target='_blank' title='새창열림'><img src="/upload/notice/20180321060302370.jpg" alt="무역협회 운영 B2B 이마켓플레이스" /></a></li>
+						
+						<li><a href='http://www.cdc.go.kr/CDC/contents/CdcKrContentView.jsp?cid=79835&menuIds=HOME006-MNU2801-MNU2825' target='_blank' title='새창열림'><img src="/upload/notice/20171121055146076.jpg" alt="재외국민 질병정보" /></a></li>
+						
+						<li><a href='http://www.kdic.or.kr/customer/hide_info.jsp' target='_blank' title='새창열림'><img src="/upload/notice/20171121055127694.jpg" alt="은닉재산 신고센터(~19. 4. 13.)" /></a></li>
+						
+						<li><a href='http://youtu.be/K9DKW5PqApo' target='_blank' title='새창열림'><img src="/upload/notice/20171121055038544.jpg" alt="동해_동영상" /></a></li>
+						
+						<li><a href='/cntntsDown.do?path=eng&physic=terror.pdf&real=terror.pdf' target='_blank' title='새창열림'><img src="/upload/notice/20171121055014541.jpg" alt="테러대비 행동요령 소책자" /></a></li>
+						
+						<li><a href='https://www.factsaboutkorea.go.kr/welcome.do' target='_blank' title='새창열림'><img src="/upload/notice/20171121054951072.jpg" alt="한국바로알림서비스" /></a></li>
+						
+						<li><a href='http://www.kotra.or.kr/kh/main/KHMIUI010M.html' target='_blank' title='새창열림'><img src="/upload/notice/20171121054934110.gif" alt="코트라" /></a></li>
+						
+						<li><a href='http://jobchina.kita.net' target='_blank' title='새창열림'><img src="/upload/notice/20171121054913908.jpg" alt="한국무역협회 재중기업 구인구직알선" /></a></li>
+						
+						<li><a href='http://www.ip-navi.or.kr/newindex.navi' target='_blank' title='새창열림'><img src="/upload/notice/20171121054858767.jpg" alt="국제 지재권 분쟁정보 포털(IP-NAVI)" /></a></li>
+						
+						<li><a href='http://president.globalwindow.org' target='_blank' title='새창열림'><img src="/upload/notice/20171121054826030.jpg" alt="정상외교 경제활용포털" /></a></li>
+						
+						<li><a href='http://nkinfo.unikorea.go.kr' target='_blank' title='새창열림'><img src="/upload/notice/20171121054810726.jpg" alt="북한정보포털" /></a></li>
+						
+						<li><a href='http://www.korean.net/portal/PortalView.do?urlType=Y&pageUrl=/knt/cms/Cms.do?&menuId=MKNTPO0010&pageUrlSub=/knt/person/PerGroMainView.do?itemType=&menuId=MKNTPO0010' target='_blank' title='새창열림'><img src="/upload/notice/20171121054718595.jpg" alt="코리안넷(korean.net) 재외동포 인물/단체 DB 등록" /></a></li>
+						
+						<li><a href='https://www.0404.go.kr/callcenter/translation_service.jsp' target='_blank' title='새창열림'><img src="/upload/notice/20171121054659892.jpg" alt="해외안전여행 긴급상황 통역서비스 지원" /></a></li>
+						
+						<li><a href='https://www.0404.go.kr/accompany/intro.jsp' target='_blank' title='새창열림'><img src="/upload/notice/20171121054642383.jpg" alt="외교부 해외안전여행 Application &lt;동행&gt;" /></a></li>
+						
+						<li><a href='http://basicpension.mohw.go.kr/Nfront_main/index.jsp' target='_blank' title='새창열림'><img src="/upload/notice/20171121054623898.jpg" alt="기초연금제도 도입" /></a></li>
+						
+						<li><a href='http://www.epeople.go.kr/jsp/user/on/eng/intro01.jsp' target='_blank' title='새창열림'><img src="/upload/notice/20171121054601511.jpg" alt="국민신문고 외국어 민원창구" /></a></li>
+						
+						<li><a href='http://www.privacy.go.kr' target='_blank' title='새창열림'><img src="/upload/notice/20171121054537366.jpg" alt="내 개인정보는 내가 지킨다. 국민들이 지켜야 할 개인정보보호 실천 수칙(www.privacy.go.kr)" /></a></li>
+						
+						<li><a href='http://www.p2pdc.or.kr' target='_blank' title='새창열림'><img src="/upload/notice/20171121054521513.jpg" alt="민간외교단체 커뮤니티(www.p2pdc.or.kr)" /></a></li>
+						
+						<li><a href='http://www.korea.net' target='_blank' title='새창열림'><img src="/upload/notice/20171121054142621.jpg" alt="Korea.net" /></a></li>
+						
+						<li><a href='http://study.korean.net' target='_blank' title='새창열림'><img src="/upload/notice/20171121054113757.jpg" alt="STUDY KOREAN 스터디코리안" /></a></li>
+						
+						<li><a href='http://www.koreafocus.or.kr' target='_blank' title='새창열림'><img src="/upload/notice/20171121054054290.jpg" alt="국내 주요 언론지 기사를 소개하는 월간 웹진 Korea Focus" /></a></li>
+						
+						<li><a href='http://www.koreana.or.kr' target='_blank' title='새창열림'><img src="/upload/notice/20171121054036629.jpg" alt="한국 문화예술 소개 종합 계간지 KOREANA" /></a></li>
+						
+						<li><a href='http://www.africacenter.info/' target='_blank' title='새창열림'><img src="/upload/notice/20171121054019957.jpg" alt="아프리카협력센터" /></a></li>
+						
+						<li><a href='http://www.buykorea.org/buykorea/front/main.jsp' target='_blank' title='새창열림'><img src="/upload/notice/20171121053923244.jpg" alt="바이코리아, 코트라" /></a></li>
+						
+						<li><a href='http://www.odakorea.go.kr/index.jsp' target='_blank' title='새창열림'><img src="/upload/notice/20171121053845297.jpg" alt="ODA KOREA" /></a></li>
+						
+						<li><a href='http://www.kita.net/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053827132.jpg" alt="한국무역협회" /></a></li>
+						
+						<li><a href='http://www.kcfr.or.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053809896.jpg" alt="한국외교협회" /></a></li>
+						
+						<li><a href='http://www.investkorea.org/kr/index.do' target='_blank' title='새창열림'><img src="/upload/notice/20171121053749552.jpg" alt="Invest Korea" /></a></li>
+						
+						<li><a href='http://kosis.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053730953.jpg" alt="국가통계포털 KOSIS" /></a></li>
+						
+						<li><a href='http://www.passport.go.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053655036.jpg" alt="외교부 여권 안내 홈페이지" /></a></li>
+						
+						<li><a href='http://energia.mofa.go.kr' target='_blank' title='새창열림'><img src="/upload/notice/20171121053624250.jpg" alt="중남미 자원ㆍ인프라 협력센터" /></a></li>
+						
+						<li><a href='http://www.kf.or.kr' target='_blank' title='새창열림'><img src="/upload/notice/20171121053605088.jpg" alt="한국국제교류재단" /></a></li>
+						
+						<li><a href='http://www.worldjob.or.kr' target='_blank' title='새창열림'><img src="/upload/notice/20171121053543474.gif" alt="한국산업인력공단 해외취업국" /></a></li>
+						
+						<li><a href='http://www.oneclick.or.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053512106.gif" alt="지역종합정보시스템" /></a></li>
+						
+						<li><a href='http://www.koreancenter.or.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053447231.jpg" alt="연합뉴스-한민족센터" /></a></li>
+						
+						<li><a href='http://www.epeople.go.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053425824.gif" alt="국민신문고" /></a></li>
+						
+						<li><a href='http://www.0404.go.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053406342.jpg" alt="해외안전여행사이트" /></a></li>
+						
+						<li><a href='http://www.visitkorea.or.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20171121053348219.jpg" alt="한국관광공사" /></a></li>
+						
+						<li><a href='http://www.hikorea.go.kr/pt/index.html' target='_blank' title='새창열림'><img src="/upload/notice/20171121053314818.jpg" alt="외국인을 위한 전자정부 Hi Korea" /></a></li>
+						
+						<li><a href='http://www.customs.go.kr/kcshome/main/content/ContentView.do?contentId=CONTENT_ID_000000587&layoutMenuNo=69&nttId=CONTENT_ID_000000587' target='_blank' title='새창열림'><img src="/upload/notice/20181031095527726.jpg" alt="관세청" /></a></li>
+						
+						<li><a href='http://www.kocis.go.kr/' target='_blank' title='새창열림'><img src="/upload/notice/20181116105140602.jpg" alt="해외문화홍보원" /></a></li>
+						
+						
+						
+					</ul>
+				</div>
+			</div>			
+		</div>
+		
+		<!-- // 메인에만 노출 -->
+		
+	<div class="foot_sec">
+		<div class="all_hidden">외교부</div>
+		<div class="foot_right">
+			<!-- 개인정보처리 방침 S -->
+			
+	<div class="foot_link">
+		<ul>
+			<li><a href="http://www.mofa.go.kr/www/wpge/m_4194/contents.do" target="_blank" title="새창에서 열림">개인정보처리방침</a></li>
+			<li><a href="http://www.mofa.go.kr/www/wpge/m_4190/contents.do" target="_blank" title="새창에서 열림">저작권정책</a></li>
+			<li class="last"><a href="http://www.mofa.go.kr/www/wpge/m_4187/contents.do" target="_blank" title="새창에서 열림">뷰어프로그램</a></li>
+		</ul>
+	</div>
+			<!-- 개인정보처리 방침 E -->
+				<div class="foot_info">
+					<div class="ileft">
+						<!-- SNS or 재외공관바로가기 S -->
+						
+	<div class="foot_ft">
+		<dl class="ftsns">
+			<dt>외교부 소셜미디어</dt>
+			<dd>
+				<ul>
+					<li><a href="https://www.facebook.com/mofakr.kr" target="_blank" title="새창열림-facebook"><img src="/images/common-respon/foot_sns1.png" alt="facebook" /></a></li>
+					<li><a href="https://twitter.com/mofa_kr" target="_blank" title="새창열림-twitter"><img src="/images/common-respon/foot_sns2.png" alt="twitter" /></a></li>
+					<li><a href="https://www.youtube.com/user/MOFAKorea " target="_blank" title="새창열림-youtube"><img src="/images/common-respon/foot_sns3.png" alt="youtube" /></a></li>
+				</ul>
+			</dd>
+		</dl>
+		<form name="form2" >
+			<div class="iright">
+				<select title="재외공관링크:대륙선택" id="cntt" name="cntt" onchange="javascript:getOpenAbroadList(this.value)"></select>
+				<select id="emblgbd" name="emblgbd" onchange="javascript:goabroad(this.value)"></select>
+			</div>
+		</form>
+	</div>
+						<!-- SNS or 재외공관바로가기 E -->
+						<address>
+							<dl>
+								<dt>주 싱가포르 대한민국 대사관</dt>
+								<dd>
+								주소 : 47 Scotts Road Goldbell Towers Singapore 228233<br/>
+								전화번호 : (65) 6256-1188, 업무시간 외 긴급연락처 : (65) 9654-3528 (사건사고), FAX : (65) 6258-3302<br />
+								영사민원(여권/공증/비자 등) 업무시간 : 09:00~16:30 (월-금, 점심시간 : 12:30~14:00, 비자업무 09:00~11:30), 대사관 업무시간 : 09:00~17:00<br />
+								Copyright © 2015 Ministry of Foreign Affairs. All Rights Reserved.
+								</dd>
+							</dl>
+						</address>
+						<address class="only_mobile">
+							Copyright © 2015 Ministry of Foreign Affairs. All Rights Reserved.<br/>
+							<strong class="add_tit">주 싱가포르 대한민국 대사관</strong>
+							<strong class="fblod">주소</strong> : 47 Scotts Road Goldbell Towers Singapore 228233<br/>
+							전화번호 : (65) 6256-1188, FAX : (65) 6258-3302<br />
+							업무시간 외 긴급연락처 : (65) 9654-3528 (사건사고)<br/>
+							<strong class="pint">영사민원(여권/공증/비자 등) 업무시간 : 09:00~16:30 (월-금, 점심시간 : 12:30~14:00, 비자업무 09:00~11:30), 대사관 업무시간 : 09:00~17:00</strong>
+						</address>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+<script type="text/javascript" src="/js/weblog/mofa_south_as.js" ></script>
+<noscript><img src="http://log.mofa.go.kr/tracker.1.tsp?u=1052&js=N" width="0" height="0" alt=""/></noscript>
